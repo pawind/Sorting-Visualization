@@ -1,0 +1,9 @@
+.bar {
+  padding-right: 10px;
+  max-height: 20px;
+  background-color: #0ff1ce;
+  opacity: 0.7;
+  transition: 0.3;
+  box-shadow: 2.5px -2.5px rgba(43, 80, 114, 0.4);
+  margin: 2px;
+}
