@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: row;
   width: 80%;
-  height: 300px;
+
   background-color: rgb(218, 248, 244);
   border: 3px solid black;
 }
